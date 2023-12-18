@@ -1,5 +1,4 @@
 #User function Template for python3
-
 class Solution:
     # return true/false denoting whether the tree is Symmetric or not
     def isSymmetric(self, root):
